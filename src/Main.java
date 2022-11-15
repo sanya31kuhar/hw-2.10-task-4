@@ -1,6 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        IntegerString is = new IntegerString();
+        is.print();
     }
 }
